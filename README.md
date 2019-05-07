@@ -3,7 +3,7 @@ This repository allow me to improve and show my abilities on different challenge
 
 ## What is Root Me ?
 It is a website made to learn computer security by displaying "legal hacking challenges". One other goal is to show how weak some system could be.  
-**notice that all provided web servers are made for that purpose**  
   
+**Notice that all provided web servers are made for that purpose**  
 For more informations : [RootMe](https://www.root-me.org/)
 
